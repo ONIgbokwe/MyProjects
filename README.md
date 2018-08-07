@@ -1,7 +1,7 @@
-#Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 
 
-##Author: Obianuju Igbokwe
+## Author: Obianuju Igbokwe
 
 Goal of the Project
 --------------------
@@ -15,16 +15,16 @@ Goal of the Project
 | Goal | Item | Item Link |
 | --------- | --------- | --------- |
 | Analysis R Script | run_analysis.R | [R script link]("https://github.com/ONIgbokwe/MyProjects/run_analysis.R")|
-| Tidy Data Set | Clean Data Set| [Data link]("https://github.com/ONIgbokwe/MyProjects/myTidyData.txt" | 
+| Tidy Data Set | Clean Data Set| [Data link]("https://github.com/ONIgbokwe/MyProjects/myTidyData.txt") | 
 | Github Repo | Repo| [Repo link] ("http://github.com/ONIgbokwe/MyProjects")|
 | Code Book  | codebook_combinedDs.Rmd| [Codebook link] ("http://github.com/ONIgbokwe/MyProjects/codebook_combinedDs.Rmd")|
 | README |The page you are on| [README link] ("http://github.com/ONIgbokwe/MyProjects/README.md")|
 
-##Contributors
+Contributors
 | FirstName | Last Name | Email |
 | --------- | --------- | --------- |
-| Obianuju | Igbokwe | [nonye.doxa@gmail.com]("mailto: nonye.doxa@gmail.com")|
+| Obianuju | Igbokwe | [nonye.doxa@gmail.com]|
 
-##License
+## License
 Any one may contribute after this assignment is submitted and graded
 
