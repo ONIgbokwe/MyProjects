@@ -12,13 +12,15 @@ Goal of the Project
     scripts. 
  4. Analysis R script
 
+Review Criteria
+
 | Goal | Item | Item Link |
 | --------- | --------- | --------- |
 | Analysis R Script | run_analysis.R | [R script link](/ "https://github.com/ONIgbokwe/MyProjects/run_analysis.R")|
 | Tidy Data Set | Clean Data Set| [Data link](/ "https://github.com/ONIgbokwe/MyProjects/myTidyData.txt") | 
 | Github Repo | Repo| [Repo link](/ "http://github.com/ONIgbokwe/MyProjects")|
 | Code Book  | codebook_combinedDs.Rmd| [Codebook link](/ "http://github.com/ONIgbokwe/MyProjects/codebook_combinedDs.Rmd")|
-| README |The page you are on| [README link]("http://github.com/ONIgbokwe/MyProjects/README.md")|
+| README |The page you are on| [README link](/"http://github.com/ONIgbokwe/MyProjects/README.md")|
 
 Contributors
 
