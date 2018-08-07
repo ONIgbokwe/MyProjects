@@ -12,7 +12,7 @@ Goal of the Project
     scripts. 
  4. Analysis R script
 
-Review Criteria
+## Review Criteria
 
 | Goal | Item | Item Link |
 | --------- | --------- | --------- |
@@ -22,9 +22,9 @@ Review Criteria
 | Code Book  | codebook_combinedDs.Rmd| [Codebook link](/ "http://github.com/ONIgbokwe/MyProjects/codebook_combinedDs.Rmd")|
 | README |The page you are on| [README link](/"http://github.com/ONIgbokwe/MyProjects/README.md")|
 
-Contributors
+## Contributors
 
-| FirstName | Last Name | Email |
+| FirstName | LastName | Email |
 | --------- | --------- | --------- |
 | Obianuju | Igbokwe | [nonye.doxa@gmail.com]|
 
